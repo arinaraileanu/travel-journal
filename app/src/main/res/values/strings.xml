@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Manage Trip</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="destination">Destination</string>
+    <string name="city_break">City break</string>
+    <string name="see_side">See side</string>
+    <string name="sea_side">Sea side</string>
+    <string name="mountains">Mountains</string>
+    <string name="price">Price(eur)</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="rating">Rating</string>
+    <string name="save">Save</string>
+</resources>
