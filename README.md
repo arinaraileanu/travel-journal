@@ -1,4 +1,4 @@
 # travel-journal
 Travel Journal application.
-![imageone](https://imgur.com/T74AFuT)
-![imagetwo](https://imgur.com/MCEtT8f)
+![imageone](https://i.imgur.com/T74AFuT.png)
+![imagetwo](https://i.imgur.com/MCEtT8f.png)
